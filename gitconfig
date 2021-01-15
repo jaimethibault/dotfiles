@@ -46,6 +46,7 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+
 [user]
 	email = jaime.thibault@gmail.com
 	name = thibault jaime
